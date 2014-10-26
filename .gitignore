@@ -36,6 +36,8 @@ Session.vim
 # Ghost DB file
 *.db
 *.db-journal
+/content/data/ghost-dev.db
+/content/data/ghost.db
 
 .build
 .dist
