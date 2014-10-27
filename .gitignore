@@ -15,11 +15,10 @@ node_modules
 bower_components
 .bowerrc
 .idea/*
-        *.iml
-        *.sublime-*
-        projectFilesBackup
-
-        .DS_Store
+*.iml
+*.sublime-*
+projectFilesBackup
+.DS_Store
 
 # vim-related
 [._]*.s[a-w][a-z]
@@ -36,6 +35,7 @@ Session.vim
 # Ghost DB file
 *.db
 *.db-journal
+content/data/ghost-dev.db
 
 .build
 .dist
