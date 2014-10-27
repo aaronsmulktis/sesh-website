@@ -5,6 +5,7 @@ eed
 *.out
 *.pid
 *.gz
+.gitignore
 
 pids
 logs
