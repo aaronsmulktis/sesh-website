@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Hammersmith+One);
 /* ==========================================================================
    Table of Contents
    ========================================================================== */
@@ -18,6 +19,7 @@
     12. Animations
 
 */
+/* -- Includes -- */
 /* -- Variables -- */
 /* ==========================================================================
    0. Normalize.css v2.1.3 | MIT License | git.io/normalize | (minified)
@@ -68,6 +70,7 @@ a:hover {
   outline: 0;
 }
 h1 {
+  font-family: 'Hammersmith One', sans-serif;
   font-size: 2em;
   margin: 0.67em 0;
 }
@@ -288,7 +291,8 @@ h6 {
   color: #2E2E2E;
   line-height: 1.15em;
   margin: 0 0 0.4em 0;
-  font-family: "Open Sans", sans-serif;
+  /*font-family: "Open Sans", sans-serif;*/
+  font-family: 'Hammersmith One', sans-serif;
 }
 h1 {
   font-size: 5rem;
@@ -551,7 +555,8 @@ margin on the iframe, cause it breaks stuff. */
 }
 .main-nav a {
   text-decoration: none;
-  font-family: 'Open Sans', sans-serif;
+  /*font-family: 'Open Sans', sans-serif;*/
+  font-family: 'Hammersmith One', sans-serif;
 }
 /* Create a bouncing scroll-down arrow on homepage with cover image */
 .scroll-down {
@@ -710,7 +715,8 @@ margin on the iframe, cause it breaks stuff. */
   font-size: 5rem;
   letter-spacing: -1px;
   font-weight: 700;
-  font-family: "Open Sans", sans-serif;
+  /*font-family: "Open Sans", sans-serif;*/
+  font-family: 'Hammersmith One', sans-serif;
   color: #000000;
 }
 .page-description {
@@ -718,7 +724,7 @@ margin on the iframe, cause it breaks stuff. */
   font-size: 2rem;
   line-height: 1.5em;
   font-weight: 400;
-  font-family: "Merriweather", serif;
+  font-family: 'Hammersmith One', sans-serif;
   letter-spacing: 0.01rem;
   color: #000000;
 }
@@ -797,7 +803,8 @@ body:not(.post-template) .post-title {
 .post-meta {
   display: block;
   margin: 1.75rem 0 0 0;
-  font-family: "Open Sans", sans-serif;
+  /*font-family: "Open Sans", sans-serif;*/
+  font-family: 'Hammersmith One', sans-serif;
   font-size: 1.5rem;
   line-height: 2.2rem;
   color: #9EABB3;
@@ -1143,7 +1150,7 @@ body:not(.post-template) .post-title {
 /* Location, website, and link */
 .author-profile .author-meta {
   margin: 2rem 0;
-  font-family: "Merriweather", serif;
+  font-family: 'Hammersmith One', sans-serif;
   letter-spacing: 0.01rem;
   font-size: 1.7rem;
 }
@@ -1181,7 +1188,8 @@ body:not(.post-template) .post-title {
   width: 80%;
   max-width: 710px;
   margin: 4rem auto;
-  font-family: "Open Sans", sans-serif;
+  /*font-family: "Open Sans", sans-serif;*/
+  font-family: 'Hammersmith One', sans-serif;
   font-size: 1.3rem;
   color: #9EABB3;
   text-align: center;
@@ -1256,7 +1264,8 @@ body:not(.post-template) .post-title {
   margin: 8rem 0 0 0;
   padding: 0.5rem 15px;
   border-top: #EBF2F6 1px solid;
-  font-family: "Open Sans", sans-serif;
+  /*font-family: "Open Sans", sans-serif;*/
+  font-family: 'Hammersmith One', sans-serif;
   font-size: 1rem;
   line-height: 1.75em;
   color: #BBC7CC;
