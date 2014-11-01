@@ -292,7 +292,7 @@ h6 {
   line-height: 1.15em;
   margin: 0 0 0.4em 0;
   /*font-family: "Open Sans", sans-serif;*/
-  font-family: 'Hammersmith One', sans-serif;
+  font-family: 'Hammersmith One', sans-serif !important;
 }
 h1 {
   font-size: 5rem;
