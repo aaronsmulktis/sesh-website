@@ -316,12 +316,12 @@ h6 {
   font-size: 2rem;
 }
 a {
-  color: #e4444e;
+  color: #e4444e !important;
   transition: color ease 0.3s;
 }
 a:hover {
-  color: #d61f2a;
-  text-decoration: none;
+  color: #d61f2a !important;
+  text-decoration: none !important;
 }
 p,
 ul,
